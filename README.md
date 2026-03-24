@@ -17,5 +17,5 @@
 Aplicação web interativa que utiliza lógica de sorteio aleatório e manipulação de DOM para criar uma experiência de jogo dinâmica.
 
 ### 📫 Como me encontrar
-- Linkedin: https://www.linkedin.com/in/samuel-moizinho-de-oliveira-82a298239/
+- Linkedin: https://www.linkedin.com/in/samuel-moizinho-de-oliveira/
 - Email: samuelmoizinhodeoliveira@gmail.com 
