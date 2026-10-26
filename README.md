@@ -1,21 +1,21 @@
 # Olá, eu sou o Samuel Moizinho! 👋
 
-### 👨‍💻 Sobre Mim
-- 🎓 Graduado em **Análise e Desenvolvimento de Sistemas** pela Universidade Cruzeiro do Sul.
-- 🚀 Atualmente focado em aprimorar minhas habilidades em **JavaScript**, desenvolvendo aplicações interativas e lógicas de programação.
-- 🛠️ Tenho experiência profissional com sistemas de gestão e análise de dados, o que me deu uma base sólida para resolução de problemas complexos.
-- 📖 Interessado em **ITIL** e Metodologias Ágeis para garantir a qualidade no ciclo de vida de software.
+Sou estudante de Análise e Desenvolvimento de Sistemas com foco em Dados (Analytics Engineering). Tenho um perfil analítico e aplico a tecnologia — especialmente automação e Inteligência Artificial — para otimizar processos e resolver problemas complexos.
 
-### 🛠️ Tecnologias e Ferramentas
-- **Linguagens:** JavaScript (ES6+), Python, Java, HTML5, CSS3.
-- **Banco de Dados:** SQL (PostgreSQL/MySQL).
-- **Versionamento:** Git & GitHub.
-- **Outros:** Excel Avançado e análise de processos administrativos.
+**🚀 O que estou fazendo agora:**
+- Estudando Analytics Engineering e Gestão da Inovação pela Alura.
+- Utilizando IA Generativa para acelerar o desenvolvimento de código e criar automações em processos reais de vendas.
+- Praticando lógicas de negócios com Visual Studio Code e Python.
 
-### 🌟 Projeto em Destaque
-**[Jogo do Número Secreto](https://github.com/Samuel-Moizinho/link-do-seu-projeto)**
-Aplicação web interativa que utiliza lógica de sorteio aleatório e manipulação de DOM para criar uma experiência de jogo dinâmica.
+**🛠️ Tecnologias e Ferramentas:**
+- **Dados & Automação:** Python, SQL, Excel Avançado, Power BI, IA Generativa
+- **Front-end:** JavaScript, HTML, CSS
+- **Engenharia de Software:** Git, GitHub, POO, Metodologias Ágeis
 
-### 📫 Como me encontrar
-- Linkedin: https://www.linkedin.com/in/samuel-moizinho-de-oliveira/
-- Email: samuelmoizinhodeoliveira@gmail.com 
+**📊 Projetos em Destaque:**
+- **[SaúdePlanejada](https://samuel-moizinho.github.io/Letramento-Financeiro-em-Gestao-de-Riscos-de-Saude-Preventiva/):** Aplicação interativa de letramento financeiro e gestão de riscos, com lógica de normativas da ANS estruturada via engenharia de prompt no Gemini.
+- **[Jogo do Número Secreto](https://samuel-moizinho.github.io/Jogo-do-numero-secreto/):** Aplicação web construída do zero para aplicação de lógica de controle de fluxo e manipulação de DOM.
+
+**📫 Como me encontrar:**
+- [LinkedIn](https://linkedin.com/in/samuel-moizinho-de-oliveira)
+- E-mail: samuelmoizinhodeoliveira@gmail.com
